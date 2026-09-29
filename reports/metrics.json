@@ -1,0 +1,73 @@
+{
+  "mae": 4.6984,
+  "rmse": 5.8346,
+  "r2_score": 0.6175,
+  "performance_band_accuracy": 0.695,
+  "test_samples": 1000,
+  "confusion_matrix": [
+    [
+      0,
+      21,
+      0,
+      0
+    ],
+    [
+      0,
+      157,
+      121,
+      0
+    ],
+    [
+      0,
+      59,
+      481,
+      20
+    ],
+    [
+      0,
+      0,
+      84,
+      57
+    ]
+  ],
+  "band_labels": [
+    "At Risk",
+    "Average",
+    "Good",
+    "Excellent"
+  ],
+  "feature_importances": [
+    {
+      "feature": "Internal_Marks",
+      "importance": 0.3255023946622678
+    },
+    {
+      "feature": "Study_Hours_Per_Day",
+      "importance": 0.1684137262082255
+    },
+    {
+      "feature": "Previous_Semester_Score",
+      "importance": 0.16483132067140477
+    },
+    {
+      "feature": "Attendance_Percentage",
+      "importance": 0.15974018627116432
+    },
+    {
+      "feature": "Assignment_Score",
+      "importance": 0.10831852505407924
+    },
+    {
+      "feature": "Engagement_Level_High",
+      "importance": 0.056208703602243025
+    },
+    {
+      "feature": "Engagement_Level_Low",
+      "importance": 0.011651262980761655
+    },
+    {
+      "feature": "Engagement_Level_Medium",
+      "importance": 0.005333880549853476
+    }
+  ]
+}
