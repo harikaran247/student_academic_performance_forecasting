@@ -1,4 +1,4 @@
-# 🎓 Student Academic Performance Forecasting (SIH 2026 Challenge 33)
+# 🎓 Student Academic Performance Forecasting 
 
 An end-to-end Machine Learning system built for **Smart India Hackathon 2026 Challenge 33**. The system predicts a student's final academic score, assigns performance bands, detects academic decline, and delivers actionable academic support recommendations via an interactive web dashboard.
 
